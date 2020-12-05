@@ -12,7 +12,6 @@ cards.forEach((card, index) => {
   });
 });
 
-// Вот в этом месте чего-то не могу разобраться
 function playAudio() {
   audio.play();
 }
